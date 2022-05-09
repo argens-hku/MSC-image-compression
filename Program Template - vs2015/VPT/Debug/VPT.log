@@ -1,0 +1,8 @@
+﻿  AppConvert.cpp
+c:\users\argensng\desktop\program template - vs2015\vpt\app\appconvert.cpp(88): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\argensng\desktop\program template - vs2015\vpt\app\appconvert.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\argensng\desktop\program template - vs2015\vpt\app\appconvert.cpp(94): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
+AppCompress.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
+  VPT.vcxproj -> C:\Users\ArgensNg\Desktop\Program Template - vs2015\VPT\Debug\VPT.exe
+  VPT.vcxproj -> C:\Users\ArgensNg\Desktop\Program Template - vs2015\VPT\Debug\VPT.pdb (Full PDB)

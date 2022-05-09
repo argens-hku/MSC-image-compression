@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  AppGeneratorDlg.cpp
+  AppGenerator.cpp
+  Generating Code...
+AppGenerator.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  AppGenerator.vcxproj -> C:\Users\ArgensNg\Desktop\Program Template - vs2015\VPT\Debug\AppGenerator.exe
+  AppGenerator.vcxproj -> C:\Users\ArgensNg\Desktop\Program Template - vs2015\VPT\Debug\AppGenerator.pdb (Full PDB)
