@@ -26,6 +26,7 @@ void CAppCompress::CustomFinal(void) {
 	// Add custom finalization code here
 }
 
+// --- Start of Custom Code --- //
 
 unsigned char *CAppCompress::DifferentialCoding (int &predictorSize, unsigned char *&predictor, int dataSize, unsigned char *&data){
 
@@ -1187,6 +1188,7 @@ void CAppCompress::Decompress(unsigned char *compressedData, int cDataSize, unsi
 	delete [] channelBlue;
 }
 
+// --- End of Custom Code
 
 void CAppCompress::Process(void) {
 
